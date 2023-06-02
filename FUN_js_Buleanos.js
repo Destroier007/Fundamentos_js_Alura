@@ -11,3 +11,5 @@ const texto1 = "Basquete";
 const texto2 = "Basquete";
 
 console.log(texto1===texto2)
+
+//--------------------------------------------------------------------------------------
