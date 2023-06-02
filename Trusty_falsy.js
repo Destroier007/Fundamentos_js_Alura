@@ -23,3 +23,4 @@ let texto = "Nickolas";
 //guardado na variavel
 console.log(typeof minhaVar)
 console.log(typeof varNul)
+
