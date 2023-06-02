@@ -46,11 +46,16 @@ console.log(operacaoMatematica)
 
 // Tentativa de fazer uma regra de 3 simples
 
-const Dado01 = "100";
-const Dado01B = "300";
-const Dado02 = "500";
-const Dado02B = "x";
+//Dado01 --> Dado01B
+//Dado02 --> x
+
+const Dado01 = "16";
+const Dado01B = "56";
+const Dado02 = "54";
 
 const Dado02B_Resultado = (Dado02*Dado01B)/Dado01;
 console.log(Dado02B_Resultado)
 console.log(Dado02B_Resultado >= operacaoMatematica);
+console.time(Dado02B_Resultado)
+console.timeEnd(Dado02B_Resultado)
+console.trace(Dado02B_Resultado)

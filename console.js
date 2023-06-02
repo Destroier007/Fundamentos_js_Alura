@@ -9,3 +9,6 @@ console.log(minhaVar)
 // tratamento de erro! 
 
 console.error('deu erro!')
+console.error(new Error("Deu erro mano"));
+console.time()
+console.timeEnd()
