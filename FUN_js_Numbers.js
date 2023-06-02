@@ -32,4 +32,25 @@ var a = 10;
 var b = 0;
 console.log(a/b)
 
+// Exercicio basico de funçoes matematicas 
 
+const x = "20";
+const y = "300";
+
+const primieroValor = x;
+const segundoValor = y;
+
+const operacaoMatematica = (primieroValor*segundoValor)/5;
+console.log(operacaoMatematica)
+
+
+// Tentativa de fazer uma regra de 3 simples
+
+const Dado01 = "100";
+const Dado01B = "300";
+const Dado02 = "500";
+const Dado02B = "x";
+
+const Dado02B_Resultado = (Dado02*Dado01B)/Dado01;
+console.log(Dado02B_Resultado)
+console.log(Dado02B_Resultado >= operacaoMatematica);
