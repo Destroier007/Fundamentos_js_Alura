@@ -1,7 +1,5 @@
 // tipo de dado
 // Booleanos
-// (=) Atribuir valor// (==) comparaçao pelo valor somente // (===) comparaçao pelo tipo e valor
-
 // conversao implicita 
 // permite converter um dado em outro EX: converter String em numero.
 const numero = 10;
