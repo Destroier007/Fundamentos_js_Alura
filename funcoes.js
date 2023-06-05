@@ -14,6 +14,7 @@ function imprimeTexto(texto) {
 // 2) executa a função (uma ou + vezes)
 
 imprimeTexto(soma());
+imprimeTexto("Olá texto");
 imprimeTexto("outro texto");
 
 // ----------------três formas de escrever funçoes-----------------
@@ -23,6 +24,3 @@ function soma(){
     //(return precisa ser a ultima linha da função)
     return 2+2;
 }
-
-console.log(soma())
-
