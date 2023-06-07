@@ -13,5 +13,5 @@ console.log(media);
                 0   1   2   3   */
 const notas = [10, 6.5, 8., 7.5];
 const media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
-// (length) = largura ou tamanho, ele vai puxar a quantidade de posiçoes do Array no caso, 4
+// (length) = Esta propriedade especifica o tamanho de um array, ou melhor dizendo, o número de elementos.
 console.log(media);
