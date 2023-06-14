@@ -13,6 +13,6 @@ for (let indice = 0; indice < numeros.length; indice ++) {
 
 //
 
-for (let contagem = 0; contagem <= 10; contagem ++) {
+for (let contagem = 0; contagem <= 100; contagem ++) {
     console.log(contagem);
 }
