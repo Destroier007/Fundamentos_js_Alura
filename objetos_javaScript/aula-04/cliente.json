@@ -1,0 +1,11 @@
+{
+    "nome": "Amanda Martinez",
+    "email": "amanda.Martinez@hotmail.com",
+    "telefone": ["11223344", "11922334453"],
+    "endereco": {
+      "rua": "R. Leonel Azevedo",
+      "numero": 25,
+      "apartamento": false,
+      "complemento": "Proxiumo a Praia"
+    }
+  }
